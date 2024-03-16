@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+body{
+    margin: 0;
+    font-family: Figtree;
+    background-color: hsl(47, 88%, 63%);
+}
+
+.One{
+    width: 384px;
+    height: 522px;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    margin: 218.5px auto;
+    box-shadow: 10px 10px 0px 0 black;
+    border-color: black;
+    border: solid;
+    border-width: 0.5px;
+}
+
+.img1{
+    width: 336px;
+    height: 200px;
+    border-radius: 10px;
+    margin-top: 24px;
+    margin-left: 24px;
+    margin-right: 24px;
+}
+
+.learning{
+    width: 82px;
+    height: 29px;
+    background-color: #F4D04E;
+    text-align: center;
+    margin-left: 24px;
+    border-radius: 4px;
+    margin-top: 12px;
+}
+
+.text{
+    font-size: 16px;
+    font-weight: bold;
+    padding-top: 4px;
+}
+
+h1{
+    font-size: 24px;
+    margin-left: 24px;
+    margin-top: 12px;
+}
+
+.published{
+    font-size: 14px;
+    margin-left: 24px;
+    margin-top: 12px;
+}
+
+.txt{
+    color: #7F7F7F;
+    margin-top: 12px;
+    font-size: 16px;
+    margin-left: 24px;
+    line-height: 150%;
+}
+
+.img2{
+    width: 32px;
+    height: 32px;
+}
+
+.account{
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    margin-left: 24px;
+}
+
+.textt{
+    font-size: 0.9rem;
+    font-weight: 800;
+}
+
+h1:hover{
+    color: #F4D04E;
+}
